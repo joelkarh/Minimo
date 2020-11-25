@@ -1,0 +1,106 @@
+/**fonts**/
+@font-face {
+  font-family:inconsolataRegular;
+  src:url(/Users/joel/MAMP/htdocs/Minimo/webfonts/Inconsolata-Regular.ttf);
+}
+@font-face {
+  font-family:playfairDisplayR;
+  src: url(/Users/joel/MAMP/htdocs/Minimo/webfonts/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+  font-family:ubuntuLight;
+  src: url(/Users/joel/MAMP/htdocs/Minimo/webfonts/Ubuntu-Light.ttf);
+}
+/**ALGEMEN CSS EN VARIABELEN**/
+$defaultColor:#626262;
+$h2color:#b4ad9e;
+.text-justify{
+  text-align: justify;
+}
+
+body{
+  font-family:playfairDisplayR;
+  font-size: 0.875rem;
+  p,.nav-link,h3{
+    color: $defaultColor
+
+  }
+}
+h2, #blogarticles,h3{
+  font-family: ubuntuLight;
+  font-size: 0.875rem;
+  color: $h2color;
+}
+h3.navbar-brand{
+  font-size: 1.875rem;
+}
+/**navigatie**/
+.navbar-brand{
+  font-family:inconsolataRegular;
+  color:#000000;
+}
+.w-60{
+  width:60% ;
+}
+//Hamburger toggler//
+.navbar-toggler {
+  border-color: $defaultColor !important;
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  border: 2px solid $defaultColor;
+}
+.navbar-toggler-icon {
+  background-image: url(
+  "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(89, 89, 89, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+//LAtest article Css//
+#latestarticle, #blogarticles, #allArticles {
+  padding: 0% 2.65%;
+}
+
+/**MORE NEWS**/
+#blogarticles h2, #signup h3{
+  font-family:playfairDisplayR;
+  font-size: 2rem;
+  color: #000000;
+}
+#signup{
+  background-color: #f0f0f0 !important;
+}
+
+
+
+
+/*************************
+SCREENS LARGER THEN MOBILE
+**************************/
+/*sm*/
+@media (min-width: 576px) {  }
+
+/*md*/
+@media (min-width: 768px) {  }
+
+/*lg*/
+@media (min-width: 992px) {
+  .navbar{
+    margin-top: 5.30%;
+  }
+  .navbar, header img{
+    padding:5.30% ;
+  }
+}
+.navbar-nav > li{
+  &:hover{
+    font-weight: bold;
+  }
+}
+//More news//
+#blogarticles {
+  h2{
+    font-family:playfairDisplayR;
+    font-size: 2rem;
+    color: #000000;
+  }
+}

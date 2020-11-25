@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91925cc9-f14d-40d4-abe1-1ff4893ffd9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjUM3asJDJAsFNiJF2bvbaQ1XH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Inconsolata,Playfair_Display,Ubuntu" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scss" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Minimo/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91925cc9-f14d-40d4-abe1-1ff4893ffd9a" name="Default Changelist" comment="" />
+      <created>1606213444169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606213444169</updated>
+      <workItem from="1606213445417" duration="245000" />
+      <workItem from="1606213723104" duration="3309000" />
+      <workItem from="1606217957898" duration="13442000" />
+      <workItem from="1606242564143" duration="611000" />
+      <workItem from="1606243562624" duration="23000" />
+      <workItem from="1606243613362" duration="344000" />
+      <workItem from="1606244009002" duration="325000" />
+      <workItem from="1606245176918" duration="59000" />
+      <workItem from="1606293932098" duration="44000" />
+      <workItem from="1606298997517" duration="302000" />
+      <workItem from="1606299329836" duration="36000" />
+      <workItem from="1606299406370" duration="29000" />
+      <workItem from="1606299491214" duration="133000" />
+      <workItem from="1606299637880" duration="4000" />
+      <workItem from="1606299681674" duration="1487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="132" key="#Inspections" timestamp="1606300578028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1606300578028" />
+    <state x="401" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606300612746">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="401" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606300612746" />
+    <state x="115" y="103" width="1325" height="728" key="SettingsEditor" timestamp="1606299605659">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1440.0.1288.946@0.0.1440.900" timestamp="1606213693897" />
+    <state x="115" y="103" width="1325" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606299605659" />
+    <state x="343" y="64" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606238922537">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="343" y="64" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1606238922537" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606237364948">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1288.946@0.0.1440.900" timestamp="1606237364948" />
+  </component>
+</project>
